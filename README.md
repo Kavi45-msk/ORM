@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## Entity Relationship Diagram
 
-![alt text](<Screenshot 2024-03-05 101241.png>)
+![WhatsApp Image 2024-03-05 at 11 40 50_4db1b743](https://github.com/Kavi45-msk/ORM/assets/147457752/b05fd05c-4508-4f6b-b60f-d3837216270b)
+
 
 ## DESIGN STEPS
 
